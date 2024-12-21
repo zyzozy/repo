@@ -71,6 +71,18 @@
 			<ContextMenu name="РасчетныйСчетПоставщикаКонтекстноеМеню" id="12"/>
 			<ExtendedTooltip name="РасчетныйСчетПоставщикаExtendedTooltip" id="22"/>
 		</InputField>
+		<InputField name="ПоставщикТары" id="29">
+			<DataPath>Объект.ПоставщикТары</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ПоставщикТарыКонтекстноеМеню" id="30"/>
+			<ExtendedTooltip name="ПоставщикТарыРасширеннаяПодсказка" id="31"/>
+		</InputField>
+		<InputField name="ДатаПоставки" id="32">
+			<DataPath>Объект.ДатаПоставки</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ДатаПоставкиКонтекстноеМеню" id="33"/>
+			<ExtendedTooltip name="ДатаПоставкиРасширеннаяПодсказка" id="34"/>
+		</InputField>
 		<InputField name="РасчетныйСчет" id="6">
 			<DataPath>Объект.РасчетныйСчет</DataPath>
 			<FooterHorizontalAlign>Left</FooterHorizontalAlign>
