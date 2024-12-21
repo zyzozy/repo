@@ -644,7 +644,7 @@
 		<Metadata name="Document.ПоступлениеДенег.Form.ФормаДокумента.Form" id="0c5d1b45-8b7d-413e-ab11-f0192f59101c.0" configVersion="d025a46c990d7a4d926fc858bd1ca9f200000000"/>
 		<Metadata name="Document.ПоступлениеДенег.Help" id="fd455a27-23d6-458c-827d-779819b10f57.1" configVersion="20a7370cad6dc94baddbbe8cd9faacb400000000"/>
 		<Metadata name="Document.ПоступлениеДенег.ObjectModule" id="fd455a27-23d6-458c-827d-779819b10f57.0" configVersion="d4986977f3fdb046a243fbf4b6c2d02600000000"/>
-		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="b2b8dbab5de28e49b9614a789b2614f600000000">
+		<Metadata name="Document.ПриходТовара" id="465028ef-ab50-4508-b3ba-c29202551673" configVersion="c1943b855191cf448b46c14e67d4e35200000000">
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Товар" id="0527b9a2-4d97-4f58-b130-f934fefa5077"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары.Attribute.Количество" id="0b24afaa-c16d-41da-b7f1-3734ff24c7c2"/>
 			<Metadata name="Document.ПриходТовара.TabularSection.Товары" id="1e5fca80-7a62-4a56-924a-d84ad889567d"/>
@@ -661,7 +661,7 @@
 		<Metadata name="Document.ПриходТовара.Form.ФормаСписка.Form" id="2af425f3-d592-43a4-90b3-6590a2518ea9.0" configVersion="e0e497b25cf9dd4faa51bdbeeeb9104b00000000"/>
 		<Metadata name="Document.ПриходТовара.Help" id="465028ef-ab50-4508-b3ba-c29202551673.1" configVersion="93ed96b8fbf7f04ea46f30979014d20200000000"/>
 		<Metadata name="Document.ПриходТовара.ManagerModule" id="465028ef-ab50-4508-b3ba-c29202551673.2" configVersion="08f1eab92e16894494c747945568ef9800000000"/>
-		<Metadata name="Document.ПриходТовара.ObjectModule" id="465028ef-ab50-4508-b3ba-c29202551673.0" configVersion="c2c895bafa58ae4dba2f43450c11ee6800000000"/>
+		<Metadata name="Document.ПриходТовара.ObjectModule" id="465028ef-ab50-4508-b3ba-c29202551673.0" configVersion="6c0cd36af8474948b577a283aec4a80800000000"/>
 		<Metadata name="Document.РасходТовара" id="b6a6ceb6-2d64-414f-8082-84705f6840d7" configVersion="f0d4662de293c540ba7f9d25470a25a500000000">
 			<Metadata name="Document.РасходТовара.Attribute.Склад" id="07a5cc8d-f7f1-42fd-adb0-da1b1098ab9f"/>
 			<Metadata name="Document.РасходТовара.TabularSection.Товары.Attribute.Цена" id="1b96c376-10ff-4849-a777-b7a2b0fc2cd9"/>
