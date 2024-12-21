@@ -617,17 +617,19 @@
 		<Metadata name="Document.ОперацияПоУчетуТоваров.Form.ФормаДокумента.Form" id="57831099-84e2-4236-84cb-212e22c11fa9.0" configVersion="499ac75abaeeb6458fd03c023c4a0bd400000000"/>
 		<Metadata name="Document.ОперацияПоУчетуТоваров.Help" id="bbdebd1d-3f45-48a1-9d0b-d5faa4c52e00.1" configVersion="3323dd6f0ca1964ca74377726113398d00000000"/>
 		<Metadata name="Document.ОперацияПоУчетуТоваров.ObjectModule" id="bbdebd1d-3f45-48a1-9d0b-d5faa4c52e00.0" configVersion="feaf0bdc3e49ed43b35bcf9a55c342eb00000000"/>
-		<Metadata name="Document.Оплата" id="6909b902-801b-49e1-87aa-a0910e500953" configVersion="1fd59bcf92390249889d24e1f5cdb03600000000">
+		<Metadata name="Document.Оплата" id="6909b902-801b-49e1-87aa-a0910e500953" configVersion="2c2aa0146fc4fa4bb103fa7e5e81622900000000">
 			<Metadata name="Document.Оплата.Attribute.Организация" id="1cb9b8ae-b8ea-49f6-9d50-f2a4a1ff9d5f"/>
+			<Metadata name="Document.Оплата.Attribute.ПоставщикТары" id="216a7a6d-620a-42db-b936-13ca289d50d5"/>
 			<Metadata name="Document.Оплата.Attribute.Поставщик" id="25d8bdc0-d22b-44e6-87cf-d4a3ddd03131"/>
 			<Metadata name="Document.Оплата.Attribute.Валюта" id="479799ba-7877-42b0-9154-9f5afcd973c7"/>
 			<Metadata name="Document.Оплата.Attribute.Договор" id="6031ce6b-3524-4576-b5ed-64ce045b2612"/>
 			<Metadata name="Document.Оплата.Attribute.Сумма" id="8f9f2b3e-161d-4939-b9ef-a78feb66cf44"/>
+			<Metadata name="Document.Оплата.Attribute.ДатаПоставки" id="9b8db531-9a8e-40df-ad0a-33bb13bb8feb"/>
 			<Metadata name="Document.Оплата.Attribute.РасчетныйСчетПоставщика" id="be2f531c-7557-497f-89df-f2177d29cf8c"/>
 			<Metadata name="Document.Оплата.Attribute.РасчетныйСчет" id="dc103d09-3749-4bea-bacf-060921fe4d85"/>
 		</Metadata>
-		<Metadata name="Document.Оплата.Form.ФормаДокумента" id="86a4f443-b90a-4c6d-a224-cba9bf2a547d" configVersion="b1da5ff13238f44585bced0a899c572f00000000"/>
-		<Metadata name="Document.Оплата.Form.ФормаДокумента.Form" id="86a4f443-b90a-4c6d-a224-cba9bf2a547d.0" configVersion="f45621146d04134bb929ecfe1cd25ebf00000000"/>
+		<Metadata name="Document.Оплата.Form.ФормаДокумента" id="86a4f443-b90a-4c6d-a224-cba9bf2a547d" configVersion="ce4186f1551cac4e812b5876ab2da8e200000000"/>
+		<Metadata name="Document.Оплата.Form.ФормаДокумента.Form" id="86a4f443-b90a-4c6d-a224-cba9bf2a547d.0" configVersion="8f74150aa6dab447919ee341c80614f000000000"/>
 		<Metadata name="Document.Оплата.Help" id="6909b902-801b-49e1-87aa-a0910e500953.1" configVersion="56ebb4ae21908b41b18f6d9de42e5f6300000000"/>
 		<Metadata name="Document.Оплата.ObjectModule" id="6909b902-801b-49e1-87aa-a0910e500953.0" configVersion="f44edd4bab6f3a418e0387e2c3289bdd00000000"/>
 		<Metadata name="Document.ПоступлениеДенег" id="fd455a27-23d6-458c-827d-779819b10f57" configVersion="6ff6b31ff455c44fa64464541c33f1b700000000">
